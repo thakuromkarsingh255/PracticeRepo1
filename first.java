@@ -3,6 +3,6 @@ public class first {
     {
         System.out.print("Omkar");
         System.out.print(" Singh");
-        System.out.println("\nThis is a new feature");
+        System.out.println("\nThis is a feature2");
     }
 }
